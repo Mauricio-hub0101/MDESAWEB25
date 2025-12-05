@@ -32,6 +32,6 @@ Proyecto de creación de una tienda online de productos electrónicos.
 ## Enlaces de ayuda/referencia.
 [![Posible framework](https://es.react.dev/images/home/conf2021/cover.svg)](https://es.react.dev)
 
-[Página de referencia] (https://www.pccomponentes.com "Concepto")
+[Página de referencia](https://www.pccomponentes.com "Concepto")
 
-![Boceto de proyecto] (images/boceto-proyecto.png "Descripción de producto")
+![Boceto de proyecto](images/boceto-proyecto.png "Descripción de producto")
