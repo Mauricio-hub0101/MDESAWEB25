@@ -35,3 +35,5 @@ Proyecto de creación de una tienda online de productos electrónicos.
 [Página de referencia](https://www.pccomponentes.com "Concepto")
 
 ![Boceto de proyecto](images/boceto-proyecto.png "Descripción de producto")
+
+[Ejemplo funcional](detalle-funcional.md "Detalle Marketplace")
